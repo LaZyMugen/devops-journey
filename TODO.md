@@ -3,7 +3,7 @@
 ## ✅ Week 1 (till Aug 12)
 - [x] Setup Git & GitHub
 - [ ] Learn Git Basics
-- [ ] Create and clone repos
+- [x] Create and clone repos
 - [ ] Start Azure Fundamentals module
 
 ## 🔄 Week 2 (Aug 12 – Aug 18)
