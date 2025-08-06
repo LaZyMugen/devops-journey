@@ -7,6 +7,7 @@ Tracking my progress toward becoming DevOps-ready.
 - Git & GitHub mastery
 - Microsoft Learn: Azure + DevOps Fundamentals
 - Setup project tracking
+- Becoming devops efficient and create projects as soon as possible
 
 ## 🗂️ Structure
 - `phase0/` → Notes per topic
