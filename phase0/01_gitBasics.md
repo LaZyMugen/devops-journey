@@ -18,3 +18,4 @@
 - If you don’t have push access to a repo, you fork it (your own copy on GitHub), clone it locally, push changes to your fork, and then create a PR to the original repo.
 
 - Git is essential in DevOps and collaborative development because it keeps a clean history, allows parallel feature work, and ensures reproducibility.
+

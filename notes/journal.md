@@ -8,3 +8,4 @@
 - Started Azure Fundamentals module.
 - Learned about cloud computing basics.
 - <img src="../assets/screenshots/azure-learn-1.png" width="300">
+- <img src="../assets/screenshots/CloudModels.png" width="300">
