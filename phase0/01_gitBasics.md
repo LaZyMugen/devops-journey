@@ -19,3 +19,10 @@
 
 - Git is essential in DevOps and collaborative development because it keeps a clean history, allows parallel feature work, and ensures reproducibility.
 
+-<img src="../assets/screenshots/Screenshot 2025-08-08 131918.png" width="350">
+
+-<img src="../assets/screenshots/Screenshot 2025-08-08 132203.png" width="350">
+
+-<img src="../assets/screenshots/Screenshot 2025-08-08 132228.png" width="400">
+
+-<img src="../assets/screenshots/Screenshot 2025-08-08 132235.png" width="300">
